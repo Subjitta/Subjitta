@@ -9,7 +9,7 @@ Hii! Welcome to Subjitta works. Im using nvim to code, in windows.<br><br>Curren
 ![](https://nirzak-streak-stats.vercel.app/?user=Subjitta&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subjitta&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
