@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii! Welcome to Subjitta works. Im using nvim to code, in windows.<br><br>Currently work: Asrium (project manager)<br>Status: Almost started ;D<br>My name is Vadim, i life in russia!
+Hii! Welcome to Subjitta works. Im using nvim to code, in windows.<br><br>Currently work: NeoShell (project manager)<br>Status: Almost started ;D<br>My name is Vadim, i life in russia!
 
 
 # 💻 Tech Stack:
